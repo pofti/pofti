@@ -1,7 +1,7 @@
 # Hey! Hi, I'm pofti 17 years old and I'm very interested in software. In this account, I will share my old / new discord bots and some codes that will be useful to you.
 
 
-    <img src="https://komarev.com/ghpvc/?username=pofti&color=dc143c"/>
+![](https://komarev.com/ghpvc/?username=poftiV&label=PROFILE+VIEWS)
 
 
 <div align="center">
