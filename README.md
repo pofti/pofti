@@ -4,10 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=poftiV&label=PROFILE+VIEWS)
 
 
-<div align="center">
-    <a href="https://discord.com/users/941305177988792340" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/941305177988792340"></a>
-</div>
-
 
 
 ## <h3 align="left">Important For Me;</h3>
