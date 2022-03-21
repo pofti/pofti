@@ -1,11 +1,15 @@
-# class aspect{
+Selam ben pofti, burda size 2020 eylülden beri üzerine düştüğüm discord botları ile alakalı şeyler paylaşıcam ayriyetten kullanmadığım bir takım altyapıları erişebilmeniz açısından public bir şekilde paylaşıcam 😝
+
+
+```js
+class aspect{
   constructor(options) {
     this.name = "Emirhan",
     this.hometown = "Adana",
     this.birthday = "17",
     this.birthmonth = "April",
     this.birthyear = "2004",
-    this.age = "17",
+    this.age = "17,5",
     this.height = "1.87",
     this.weight = "74",
     this.type = "human",
@@ -13,6 +17,7 @@
     this.sex = "male"
   }
 }
+```
 
 ![](https://komarev.com/ghpvc/?username=SroxynV&label=PROFILE+VIEWS)
 
