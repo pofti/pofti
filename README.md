@@ -1,5 +1,18 @@
-# Hey! I'm pofti 17 years old and I'm very interested in software. In this account, I will share my old / new discord bots and some codes that will be useful to you.
-
+# class aspect{
+  constructor(options) {
+    this.name = "Emirhan",
+    this.hometown = "Adana",
+    this.birthday = "17",
+    this.birthmonth = "April",
+    this.birthyear = "2004",
+    this.age = "17",
+    this.height = "1.87",
+    this.weight = "74",
+    this.type = "human",
+    this.job = "basketball player",
+    this.sex = "male"
+  }
+}
 
 ![](https://komarev.com/ghpvc/?username=SroxynV&label=PROFILE+VIEWS)
 
