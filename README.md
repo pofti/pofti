@@ -13,7 +13,7 @@ class aspect{
     this.height = "1.87",
     this.weight = "74",
     this.type = "human",
-    this.job = "basketball player",
+    this.job = ["basketball_player","programmer","student"],
     this.sex = "male"
   }
 }
